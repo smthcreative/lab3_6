@@ -26,4 +26,4 @@ Example:
 
 Module is workable.
 
-Object is unique instance of a data structure. All variable, class, method and other is object.
+Examples using the functions isinstance, dir, to explain the following concepts is in module research.py
